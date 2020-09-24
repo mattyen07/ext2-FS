@@ -1,0 +1,2602 @@
+ 
+Checksums on plain files
+.:
+total 1279
+          2 drwxr-xr-x 5     0    0    1024 Mar  4  2019 .
+15119311001 drwx--x--x 4 82357 6000     736 Mar 23 19:36 ..
+         18 drwxr-xr-x 2     0    0    1024 Mar  4  2019 ARM
+         13 drwxr-xr-x 4     0    0    1024 Mar  4  2019 d1
+         11 drwx------ 2     0    0   12288 Mar  4  2019 lost+found
+         21 -rw-r--r-- 1     0    0  159803 Mar  4  2019 Rules for writing numbers on cover page.pptx
+         12 -rw-r--r-- 2     0    0 1092917 Mar  4  2019 termcap
+
+./ARM:
+total 5
+18 drwxr-xr-x 2 0 0 1024 Mar  4  2019 .
+ 2 drwxr-xr-x 5 0 0 1024 Mar  4  2019 ..
+20 -rw-r--r-- 1 0 0  221 Mar  4  2019 assembler.s
+19 -rw-r--r-- 1 0 0 1244 Mar  4  2019 Hello World.c
+
+./d1:
+total 1109
+13 drwxr-xr-x 4    0    0    1024 Mar  4  2019 .
+ 2 drwxr-xr-x 5    0    0    1024 Mar  4  2019 ..
+14 -rw-r--r-- 1 2019 1920    4391 Mar  4  2019 bitshortage.html
+16 drwxr-xr-x 2 1034  100    1024 Nov 21  2018 Calendars
+23 drwxr-xrwx 3    0    0    1024 Mar  4  2019 d2
+15 -rw-r--r-- 1    0    0      51 Mar  4  2019 File1.txt
+12 -rw-r--r-- 2    0    0 1092917 Mar  4  2019 termcap
+22 -rwxr-xr-x 1    0    0   24076 Mar  4  2019 UBC-logo-2018-fullsig-blue-rgb300.png
+
+./d1/Calendars:
+total 11
+16 drwxr-xr-x 2 1034 100 1024 Nov 21  2018 .
+13 drwxr-xr-x 4    0   0 1024 Mar  4  2019 ..
+17 -rw-r--r-- 1 1034 100 8688 Nov 21  2018 2019_4up.pdf
+
+./d1/d2:
+total 3
+23 drwxr-xrwx 3    0   0 1024 Mar  4  2019 .
+13 drwxr-xr-x 4    0   0 1024 Mar  4  2019 ..
+25 drwxr-xr-x 3 1034 100 1024 Mar  4  2019 d3
+24 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty[1]
+
+./d1/d2/d3:
+total 4
+25 drwxr-xr-x 3 1034 100 1024 Mar  4  2019 .
+23 drwxr-xrwx 3    0   0 1024 Mar  4  2019 ..
+26 drwxr-xr-x 3 1034 100 2048 Mar  4  2019 d4
+
+./d1/d2/d3/d4:
+total 8
+26 drwxr-xr-x 3 1034 100 2048 Mar  4  2019 .
+25 drwxr-xr-x 3 1034 100 1024 Mar  4  2019 ..
+27 drwxr-xr-x 5 1034 100 5120 Mar  4  2019 d5
+
+./d1/d2/d3/d4/d5:
+total 10
+ 27 drwxr-xr-x 5 1034 100 5120 Mar  4  2019 .
+ 26 drwxr-xr-x 3 1034 100 2048 Mar  4  2019 ..
+238 drwxr-xr-x 2 1034 100 1024 Mar  4  2019 d6
+239 drwxr-xr-x 2 1034 100 1024 Mar  4  2019 d7
+240 drwxr-xr-x 2 1034 100 1024 Mar  4  2019 d8
+ 28 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty1
+ 55 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty10
+ 58 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty11
+ 61 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty12
+ 64 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty13
+ 67 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty14
+ 70 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty15
+ 73 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty16
+ 76 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty17
+ 79 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty18
+ 82 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty19
+ 31 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty2
+ 85 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty20
+ 88 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty21
+ 91 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty22
+ 94 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty23
+ 97 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty24
+100 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty25
+103 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty26
+106 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty27
+109 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty28
+112 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty29
+ 34 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty3
+115 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty30
+ 37 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty4
+ 40 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty5
+ 43 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty6
+ 46 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty7
+ 49 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty8
+ 52 -rw-r--r-- 1 1034 100    0 Mar  4  2019 empty9
+ 30 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing1
+ 57 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing10
+ 60 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing11
+ 63 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing12
+ 66 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing13
+ 69 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing14
+ 72 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing15
+ 75 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing16
+ 78 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing17
+ 81 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing18
+ 84 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing19
+ 33 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing2
+ 87 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing20
+ 90 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing21
+ 93 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing22
+ 96 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing23
+ 99 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing24
+102 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing25
+105 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing26
+108 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing27
+111 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing28
+114 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing29
+ 36 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing3
+117 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing30
+ 39 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing4
+ 42 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing5
+ 45 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing6
+ 48 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing7
+ 51 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing8
+ 54 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyWithNothing9
+ 29 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ1
+ 56 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ10
+ 59 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ11
+ 62 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ12
+ 65 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ13
+ 68 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ14
+ 71 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ15
+ 74 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ16
+ 77 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ17
+ 80 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ18
+ 83 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ19
+ 32 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ2
+ 86 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ20
+ 89 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ21
+ 92 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ22
+ 95 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ23
+ 98 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ24
+101 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ25
+104 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ26
+107 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ27
+110 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ28
+113 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ29
+ 35 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ3
+116 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ30
+ 38 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ4
+ 41 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ5
+ 44 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ6
+ 47 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ7
+ 50 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ8
+ 53 -rw-r--r-- 1 1034 100    0 Mar  4  2019 emptyZ9
+118 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty1
+121 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY1
+154 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty10
+157 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY10
+158 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty11
+161 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY11
+162 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty12
+165 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY12
+166 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty13
+169 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY13
+170 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty14
+173 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY14
+174 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty15
+177 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY15
+178 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty16
+181 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY16
+182 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty17
+185 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY17
+186 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty18
+189 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY18
+190 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty19
+193 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY19
+122 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty2
+125 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY2
+194 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty20
+197 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY20
+198 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty21
+201 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY21
+202 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty22
+205 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY22
+206 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty23
+209 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY23
+210 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty24
+213 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY24
+214 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty25
+217 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY25
+218 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty26
+221 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY26
+222 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty27
+225 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY27
+226 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty28
+229 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY28
+230 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty29
+233 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY29
+126 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty3
+129 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY3
+234 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty30
+237 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY30
+130 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty4
+133 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY4
+134 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty5
+137 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY5
+138 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty6
+141 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY6
+142 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty7
+145 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY7
+146 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty8
+149 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY8
+150 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmpty9
+153 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEMPTY9
+119 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ1
+155 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ10
+159 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ11
+163 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ12
+167 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ13
+171 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ14
+175 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ15
+179 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ16
+183 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ17
+187 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ18
+191 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ19
+123 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ2
+195 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ20
+199 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ21
+203 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ22
+207 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ23
+211 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ24
+215 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ25
+219 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ26
+223 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ27
+227 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ28
+231 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ29
+127 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ3
+235 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ30
+131 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ4
+135 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ5
+139 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ6
+143 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ7
+147 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ8
+151 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZ9
+120 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ1
+156 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ10
+160 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ11
+164 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ12
+168 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ13
+172 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ14
+176 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ15
+180 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ16
+184 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ17
+188 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ18
+192 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ19
+124 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ2
+196 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ20
+200 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ21
+204 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ22
+208 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ23
+212 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ24
+216 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ25
+220 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ26
+224 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ27
+228 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ28
+232 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ29
+128 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ3
+236 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ30
+132 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ4
+136 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ5
+140 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ6
+144 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ7
+148 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ8
+152 -rw-r--r-- 1 1034 100    0 Mar  4  2019 fileEmptyZZ9
+
+./d1/d2/d3/d4/d5/d6:
+total 6
+238 drwxr-xr-x 2 1034 100 1024 Mar  4  2019 .
+ 27 drwxr-xr-x 5 1034 100 5120 Mar  4  2019 ..
+
+./d1/d2/d3/d4/d5/d7:
+total 6
+239 drwxr-xr-x 2 1034 100 1024 Mar  4  2019 .
+ 27 drwxr-xr-x 5 1034 100 5120 Mar  4  2019 ..
+
+./d1/d2/d3/d4/d5/d8:
+total 6
+240 drwxr-xr-x 2 1034 100 1024 Mar  4  2019 .
+ 27 drwxr-xr-x 5 1034 100 5120 Mar  4  2019 ..
+
+./lost+found:
+total 13
+11 drwx------ 2 0 0 12288 Mar  4  2019 .
+ 2 drwxr-xr-x 5 0 0  1024 Mar  4  2019 ..
+896c35616f6747ba23ccc8b3dfb3c767d0b0c52e7da1d7e2dbb4ba72f7ab680b *./termcap
+f78b48e550a54eddde584b513d3cf8edd614af3c802ba025a9114cc98ed8378c *./d1/bitshortage.html
+896c35616f6747ba23ccc8b3dfb3c767d0b0c52e7da1d7e2dbb4ba72f7ab680b *./d1/termcap
+c5aaad1ae0d918ec565ddc5c2bf54ad7c96441395c297ccb1762ac2ed8563da7 *./d1/File1.txt
+40b21b8d373ca9c27aaca296d5477b33e9067f815255d5217ee96d7d52cb859f *./d1/Calendars/2019_4up.pdf
+dec66146b918be37240bb8a24f710082b131e660d7eac46637f1c835dc9ae3d5 *./d1/UBC-logo-2018-fullsig-blue-rgb300.png
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/empty[1]
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty1
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty10
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty11
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty12
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty14
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty15
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty16
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty17
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty18
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty19
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty2
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty20
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty21
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty22
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty23
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty24
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty25
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty26
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty27
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty28
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty29
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty3
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty30
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty4
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty5
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty6
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty7
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty8
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/empty9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing1
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing10
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing11
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing12
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing14
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing15
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing16
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing17
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing18
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing19
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing2
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing20
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing21
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing22
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing23
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing24
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing25
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ1
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing26
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing27
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing28
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing29
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing3
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing30
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing4
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing5
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing6
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing7
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing8
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyWithNothing9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ10
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ11
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ12
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ14
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ15
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ16
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ17
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ18
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ19
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ2
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ20
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ21
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ22
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ23
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ24
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ25
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ26
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ27
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ28
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ29
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ3
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ30
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ4
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ5
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ6
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ7
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ8
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/emptyZ9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty1
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ1
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ1
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY1
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty2
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ2
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ2
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY2
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty3
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ3
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ3
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY3
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty4
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ4
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ4
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY4
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty5
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ5
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ5
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY5
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty6
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ6
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ6
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY6
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty7
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ7
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ7
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY7
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty8
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ8
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ8
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY8
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty10
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ10
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ10
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY10
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty11
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ11
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ11
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY11
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty12
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ12
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ12
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY12
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty14
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ14
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ14
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY14
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty15
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ15
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ15
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY15
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty16
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ16
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ16
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY16
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty17
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ17
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ17
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY17
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty18
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ18
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ18
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY18
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty19
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ19
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ19
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY19
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty20
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ20
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ20
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY20
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty21
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ21
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ21
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY21
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty22
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ22
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ22
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY22
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty23
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ23
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ23
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY23
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty24
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ24
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ24
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY24
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty25
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ25
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ25
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY25
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty26
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ26
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ26
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY26
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty27
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ27
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ27
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY27
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty28
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ28
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ28
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY28
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty29
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ29
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ29
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY29
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmpty30
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZ30
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEmptyZZ30
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./d1/d2/d3/d4/d5/fileEMPTY30
+232d0244cbbbfffc6c4d56e04a435ae8183cab91af0166a708596fa23a89871f *./ARM/Hello World.c
+b5c68e06f7480aad340e7af72bf46ed172b8f34c4e6f38e5d5289b678bbc9139 *./ARM/assembler.s
+7f95fbcec361bccf5f0eb1b25b4ce1e234cbe49e9d427acda24773979c2522a1 *./Rules for writing numbers on cover page.pptx
+ 
+Stat on each file in the system
+  File: .
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 2           Links: 5
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:43:41.000000000 -0800
+Modify: 2019-03-04 10:42:06.000000000 -0800
+Change: 2019-03-04 10:42:06.000000000 -0800
+ Birth: -
+
+  File: ./lost+found
+  Size: 12288     	Blocks: 24         IO Block: 1024   directory
+Device: 66h/102d	Inode: 11          Links: 2
+Access: (0700/drwx------)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:43:51.000000000 -0800
+Modify: 2019-03-04 10:05:03.000000000 -0800
+Change: 2019-03-04 10:05:03.000000000 -0800
+ Birth: -
+
+  File: ./termcap
+  Size: 1092917   	Blocks: 2148       IO Block: 1024   regular file
+Device: 66h/102d	Inode: 12          Links: 2
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:21:49.000000000 -0800
+Modify: 2019-03-04 10:14:32.000000000 -0800
+Change: 2019-03-04 10:21:30.000000000 -0800
+ Birth: -
+
+  File: ./d1
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 13          Links: 4
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 11:06:52.000000000 -0800
+Modify: 2019-03-04 11:06:50.000000000 -0800
+Change: 2019-03-04 11:06:50.000000000 -0800
+ Birth: -
+
+  File: ./d1/bitshortage.html
+  Size: 4391      	Blocks: 10         IO Block: 1024   regular file
+Device: 66h/102d	Inode: 14          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 2019/ UNKNOWN)   Gid: ( 1920/ UNKNOWN)
+Access: 2019-03-04 10:19:06.000000000 -0800
+Modify: 2019-03-04 10:19:06.000000000 -0800
+Change: 2019-03-04 10:20:37.000000000 -0800
+ Birth: -
+
+  File: ./d1/termcap
+  Size: 1092917   	Blocks: 2148       IO Block: 1024   regular file
+Device: 66h/102d	Inode: 12          Links: 2
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:21:49.000000000 -0800
+Modify: 2019-03-04 10:14:32.000000000 -0800
+Change: 2019-03-04 10:21:30.000000000 -0800
+ Birth: -
+
+  File: ./d1/File1.txt
+  Size: 51        	Blocks: 2          IO Block: 1024   regular file
+Device: 66h/102d	Inode: 15          Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:30:24.000000000 -0800
+Modify: 2019-03-04 10:30:41.000000000 -0800
+Change: 2019-03-04 10:30:41.000000000 -0800
+ Birth: -
+
+  File: ./d1/Calendars
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 16          Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 10:39:30.000000000 -0800
+Modify: 2018-11-21 18:57:58.000000000 -0800
+Change: 2019-03-04 10:39:17.000000000 -0800
+ Birth: -
+
+  File: ./d1/Calendars/2019_4up.pdf
+  Size: 8688      	Blocks: 18         IO Block: 1024   regular file
+Device: 66h/102d	Inode: 17          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-02-01 09:46:52.000000000 -0800
+Modify: 2018-11-21 10:24:55.000000000 -0800
+Change: 2019-03-04 10:39:17.000000000 -0800
+ Birth: -
+
+  File: ./d1/UBC-logo-2018-fullsig-blue-rgb300.png
+  Size: 24076     	Blocks: 50         IO Block: 1024   regular file
+Device: 66h/102d	Inode: 22          Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:42:55.000000000 -0800
+Modify: 2019-03-04 10:42:55.000000000 -0800
+Change: 2019-03-04 10:42:55.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 23          Links: 3
+Access: (0757/drwxr-xrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 11:07:53.000000000 -0800
+Modify: 2019-03-04 11:07:52.000000000 -0800
+Change: 2019-03-04 11:07:52.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/empty[1]
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 24          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:07:35.000000000 -0800
+Modify: 2019-03-04 11:07:35.000000000 -0800
+Change: 2019-03-04 11:07:35.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 25          Links: 3
+Access: (0755/drwxr-xr-x)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:10:30.000000000 -0800
+Modify: 2019-03-04 11:07:58.000000000 -0800
+Change: 2019-03-04 11:07:58.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4
+  Size: 2048      	Blocks: 4          IO Block: 1024   directory
+Device: 66h/102d	Inode: 26          Links: 3
+Access: (0755/drwxr-xr-x)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:10:11.000000000 -0800
+Modify: 2019-03-04 11:10:10.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5
+  Size: 5120      	Blocks: 10         IO Block: 1024   directory
+Device: 66h/102d	Inode: 27          Links: 5
+Access: (0755/drwxr-xr-x)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:11.000000000 -0800
+Modify: 2019-03-04 11:12:48.000000000 -0800
+Change: 2019-03-04 11:12:48.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty1
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 28          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty10
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 55          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty11
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 58          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty12
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 61          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty13
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 64          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty14
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 67          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty15
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 70          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty16
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 73          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty17
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 76          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty18
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 79          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty19
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 82          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty2
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 31          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty20
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 85          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty21
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 88          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty22
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 91          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty23
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 94          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty24
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 97          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty25
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 100         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty26
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 103         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty27
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 106         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty28
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 109         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty29
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 112         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty3
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 34          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty30
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 115         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty4
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 37          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty5
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 40          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty6
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 43          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty7
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 46          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty8
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 49          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/empty9
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 52          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing1
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 30          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing10
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 57          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing11
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 60          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing12
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 63          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing13
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 66          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing14
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 69          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing15
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 72          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing16
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 75          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing17
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 78          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing18
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 81          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing19
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 84          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing2
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 33          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing20
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 87          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing21
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 90          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing22
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 93          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing23
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 96          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing24
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 99          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing25
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 102         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ1
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 29          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing26
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 105         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing27
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 108         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing28
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 111         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing29
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 114         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing3
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 36          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing30
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 117         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing4
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 39          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing5
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 42          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing6
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 45          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing7
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 48          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing8
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 51          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyWithNothing9
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 54          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ10
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 56          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ11
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 59          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ12
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 62          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ13
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 65          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ14
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 68          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ15
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 71          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ16
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 74          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ17
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 77          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ18
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 80          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ19
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 83          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ2
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 32          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ20
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 86          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ21
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 89          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ22
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 92          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ23
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 95          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ24
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 98          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ25
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 101         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ26
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 104         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ27
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 107         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ28
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 110         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ29
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 113         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ3
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 35          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ30
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 116         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ4
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 38          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ5
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 41          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ6
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 44          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ7
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 47          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ8
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 50          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/emptyZ9
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 53          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:09:53.000000000 -0800
+Modify: 2019-03-04 11:09:53.000000000 -0800
+Change: 2019-03-04 11:10:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty1
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 118         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ1
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 119         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ1
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 120         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY1
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 121         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty2
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 122         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ2
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 123         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ2
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 124         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY2
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 125         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty3
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 126         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ3
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 127         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ3
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 128         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY3
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 129         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty4
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 130         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ4
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 131         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ4
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 132         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY4
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 133         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty5
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 134         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ5
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 135         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ5
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 136         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY5
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 137         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty6
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 138         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ6
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 139         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ6
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 140         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY6
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 141         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty7
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 142         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ7
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 143         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ7
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 144         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY7
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 145         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty8
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 146         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ8
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 147         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ8
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 148         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY8
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 149         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty9
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 150         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ9
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 151         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ9
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 152         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY9
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 153         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty10
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 154         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ10
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 155         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ10
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 156         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY10
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 157         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty11
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 158         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ11
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 159         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ11
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 160         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY11
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 161         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty12
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 162         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ12
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 163         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ12
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 164         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY12
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 165         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty13
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 166         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ13
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 167         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ13
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 168         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY13
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 169         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty14
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 170         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ14
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 171         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ14
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 172         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY14
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 173         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty15
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 174         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ15
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 175         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ15
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 176         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY15
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 177         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty16
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 178         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ16
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 179         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ16
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 180         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY16
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 181         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty17
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 182         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ17
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 183         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ17
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 184         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY17
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 185         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty18
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 186         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ18
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 187         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ18
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 188         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY18
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 189         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty19
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 190         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ19
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 191         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ19
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 192         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY19
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 193         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty20
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 194         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ20
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 195         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ20
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 196         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY20
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 197         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty21
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 198         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ21
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 199         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ21
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 200         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY21
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 201         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty22
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 202         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ22
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 203         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ22
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 204         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY22
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 205         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty23
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 206         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ23
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 207         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ23
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 208         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY23
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 209         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty24
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 210         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ24
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 211         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ24
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 212         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY24
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 213         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty25
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 214         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ25
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 215         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ25
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 216         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY25
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 217         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty26
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 218         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ26
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 219         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ26
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 220         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY26
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 221         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty27
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 222         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ27
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 223         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ27
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 224         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY27
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 225         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty28
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 226         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/d6
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 238         Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:13:01.000000000 -0800
+Modify: 2019-03-04 11:12:48.000000000 -0800
+Change: 2019-03-04 11:12:48.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ28
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 227         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ28
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 228         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY28
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 229         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty29
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 230         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ29
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 231         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ29
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 232         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY29
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 233         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmpty30
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 234         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZ30
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 235         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEmptyZZ30
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 236         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/fileEMPTY30
+  Size: 0         	Blocks: 0          IO Block: 1024   regular empty file
+Device: 66h/102d	Inode: 237         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:10.000000000 -0800
+Modify: 2019-03-04 11:12:10.000000000 -0800
+Change: 2019-03-04 11:12:10.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/d7
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 239         Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:48.000000000 -0800
+Modify: 2019-03-04 11:12:48.000000000 -0800
+Change: 2019-03-04 11:12:48.000000000 -0800
+ Birth: -
+
+  File: ./d1/d2/d3/d4/d5/d8
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 240         Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-04 11:12:48.000000000 -0800
+Modify: 2019-03-04 11:12:48.000000000 -0800
+Change: 2019-03-04 11:12:48.000000000 -0800
+ Birth: -
+
+  File: ./ARM
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 18          Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:43:51.000000000 -0800
+Modify: 2019-03-04 10:41:19.000000000 -0800
+Change: 2019-03-04 10:41:19.000000000 -0800
+ Birth: -
+
+  File: ./ARM/Hello World.c
+  Size: 1244      	Blocks: 4          IO Block: 1024   regular file
+Device: 66h/102d	Inode: 19          Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:41:19.000000000 -0800
+Modify: 2019-03-04 10:41:19.000000000 -0800
+Change: 2019-03-04 10:41:19.000000000 -0800
+ Birth: -
+
+  File: ./ARM/assembler.s
+  Size: 221       	Blocks: 2          IO Block: 1024   regular file
+Device: 66h/102d	Inode: 20          Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:41:19.000000000 -0800
+Modify: 2019-03-04 10:41:19.000000000 -0800
+Change: 2019-03-04 10:41:19.000000000 -0800
+ Birth: -
+
+  File: ./Rules for writing numbers on cover page.pptx
+  Size: 159803    	Blocks: 316        IO Block: 1024   regular file
+Device: 66h/102d	Inode: 21          Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:42:06.000000000 -0800
+Modify: 2019-03-04 10:42:07.000000000 -0800
+Change: 2019-03-04 10:42:07.000000000 -0800
+ Birth: -
+

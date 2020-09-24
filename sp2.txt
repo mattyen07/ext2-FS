@@ -1,0 +1,152 @@
+ 
+Checksums on plain files
+.:
+total 1776
+          2 drwxr-xr-x 6  1000    0    4096 Mar 10  2019 .
+15119311001 drwx--x--x 4 82357 6000     690 Mar 23 19:28 ..
+         14 -rwxr-xr-x 1  1000  100   17200 Mar  9  2019 a.out
+      49153 drwxr-xr-x 2  1000  100    4096 Mar 10  2019 DirInode49153
+         17 -rw------- 1  1000  100   81664 Mar  9  2019 floppy.img
+     147457 drwxr-xr-x 2  1000  100    4096 Mar  9  2019 flp
+         11 drwx------ 2     0    0   16384 Mar  9  2019 lost+found
+       8193 drwxr-xr-x 2  1000  100    4096 Mar  9  2019 problem
+         12 -rw-r--r-- 1  1000  100 5242880 Mar  9  2019 Sparse.img
+         13 -rw-r--r-- 1  1000  100    1146 Mar  9  2019 sp.c
+         15 lrwxrwxrwx 1  1000  100     143 Mar 10  2019 Symbol -> This is supposed to be a really long link that is so long that it cannot be stored in the actual inode and must therefore be put in a directory
+
+./DirInode49153:
+total 20
+49153 drwxr-xr-x 2 1000 100  4096 Mar 10  2019 .
+    2 drwxr-xr-x 6 1000   0  4096 Mar 10  2019 ..
+49154 -rw-r--r-- 1 1000 100 12134 Mar 10  2019 RFC 1149 - Standard for the transmission of IP datagrams on avian carriers.html
+
+./flp:
+total 8
+147457 drwxr-xr-x 2 1000 100 4096 Mar  9  2019 .
+     2 drwxr-xr-x 6 1000   0 4096 Mar 10  2019 ..
+
+./lost+found:
+total 20
+11 drwx------ 2    0 0 16384 Mar  9  2019 .
+ 2 drwxr-xr-x 6 1000 0  4096 Mar 10  2019 ..
+
+./problem:
+total 8
+8193 drwxr-xr-x 2 1000 100 4096 Mar  9  2019 .
+   2 drwxr-xr-x 6 1000   0 4096 Mar 10  2019 ..
+8194 lrwxrwxrwx 1 1000 100    3 Mar  9  2019 foo -> foo
+eaf0e94164bf8b2ff25bd28da0170796dd42646bb8600c3b2982741b55524868 *./Sparse.img
+ef6b8efd67d17bef78aedf6b03ee48d31642bbd6bac5f4b21c19a400b0095a37 *./sp.c
+4d34ee5737a6e1f61ded8262ae2b11f4140d5ec08a2aa632d048c7d57ee613ab *./a.out
+499bccf75b1eb32f4d5587dd4c5945b5ca003f248f31598979a3752c90247cdb *./floppy.img
+507fb362275aa4cd483408014d7c824a86443044b6858235c4c1e57fa875683b *./DirInode49153/RFC 1149 - Standard for the transmission of IP datagrams on avian carriers.html
+ 
+Stat on each file in the system
+  File: .
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 66h/102d	Inode: 2           Links: 6
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/ UNKNOWN)   Gid: (    0/    root)
+Access: 2019-03-10 15:11:22.000000000 -0700
+Modify: 2019-03-10 15:11:19.000000000 -0700
+Change: 2019-03-10 15:11:19.000000000 -0700
+ Birth: -
+
+  File: ./lost+found
+  Size: 16384     	Blocks: 32         IO Block: 4096   directory
+Device: 66h/102d	Inode: 11          Links: 2
+Access: (0700/drwx------)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-09 13:11:17.000000000 -0800
+Modify: 2019-03-09 13:11:17.000000000 -0800
+Change: 2019-03-09 13:11:17.000000000 -0800
+ Birth: -
+
+  File: ./Sparse.img
+  Size: 5242880   	Blocks: 3296       IO Block: 4096   regular file
+Device: 66h/102d	Inode: 12          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-09 20:34:04.000000000 -0800
+Modify: 2019-03-09 20:34:04.000000000 -0800
+Change: 2019-03-09 20:34:04.000000000 -0800
+ Birth: -
+
+  File: ./sp.c
+  Size: 1146      	Blocks: 8          IO Block: 4096   regular file
+Device: 66h/102d	Inode: 13          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-09 20:38:01.000000000 -0800
+Modify: 2019-03-09 20:37:57.000000000 -0800
+Change: 2019-03-09 20:37:57.000000000 -0800
+ Birth: -
+
+  File: ./a.out
+  Size: 17200     	Blocks: 40         IO Block: 4096   regular file
+Device: 66h/102d	Inode: 14          Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-09 20:38:17.000000000 -0800
+Modify: 2019-03-09 20:38:01.000000000 -0800
+Change: 2019-03-09 20:38:01.000000000 -0800
+ Birth: -
+
+  File: ./flp
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 66h/102d	Inode: 147457      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-09 20:41:04.000000000 -0800
+Modify: 2019-03-09 20:40:45.000000000 -0800
+Change: 2019-03-09 20:40:45.000000000 -0800
+ Birth: -
+
+  File: ./problem
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 66h/102d	Inode: 8193        Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-09 21:05:59.000000000 -0800
+Modify: 2019-03-09 21:05:57.000000000 -0800
+Change: 2019-03-09 21:05:57.000000000 -0800
+ Birth: -
+
+  File: ./problem/foo -> foo
+  Size: 3         	Blocks: 0          IO Block: 4096   symbolic link
+Device: 66h/102d	Inode: 8194        Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-09 21:05:59.000000000 -0800
+Modify: 2019-03-09 21:05:57.000000000 -0800
+Change: 2019-03-09 21:05:57.000000000 -0800
+ Birth: -
+
+  File: ./floppy.img
+  Size: 81664     	Blocks: 72         IO Block: 4096   regular file
+Device: 66h/102d	Inode: 17          Links: 1
+Access: (0600/-rw-------)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-09 20:41:21.000000000 -0800
+Modify: 2019-03-09 20:53:55.000000000 -0800
+Change: 2019-03-09 20:53:55.000000000 -0800
+ Birth: -
+
+  File: ./Symbol -> This is supposed to be a really long link that is so long that it cannot be stored in the actual inode and must therefore be put in a directory
+  Size: 143       	Blocks: 8          IO Block: 4096   symbolic link
+Device: 66h/102d	Inode: 15          Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-10 15:11:22.000000000 -0700
+Modify: 2019-03-10 15:11:19.000000000 -0700
+Change: 2019-03-10 15:11:19.000000000 -0700
+ Birth: -
+
+  File: ./DirInode49153
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 66h/102d	Inode: 49153       Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-10 15:08:01.000000000 -0700
+Modify: 2019-03-10 15:07:58.000000000 -0700
+Change: 2019-03-10 15:07:58.000000000 -0700
+ Birth: -
+
+  File: ./DirInode49153/RFC 1149 - Standard for the transmission of IP datagrams on avian carriers.html
+  Size: 12134     	Blocks: 24         IO Block: 4096   regular file
+Device: 66h/102d	Inode: 49154       Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-10 15:07:58.000000000 -0700
+Modify: 2019-03-10 15:07:58.000000000 -0700
+Change: 2019-03-10 15:07:58.000000000 -0700
+ Birth: -
+

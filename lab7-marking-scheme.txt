@@ -1,0 +1,114 @@
+Total before late penalty: [ 66/66]
+
+;; PERFECT! Good job!
+
+
+  Part 1: reading and interpreting the volume data [ 9/9]
+  ------------------------------------------------
+
+    open_volume_file:
+        The code should successfully read superblock                        [  1/1]
+        The code should compute size and store block groups                 [  1/1]
+        All of the requested information is stored in returned volume_t     [  1/1]
+        In case of error (including wrong s_magic), NULL is returned        [  1/1]
+
+    close_volume_file:
+        All allocated data is freed, file pointer/descriptor is closed      [  1/1]
+
+    read_block:
+        Correctly sets buffer to zeroes if block_no is zero                 [  1/1]
+        Correctly fails if block_no is invalid                              [  1/1]
+        Correctly seeks to proper location (or uses pread)                  [  1/1]
+        Correctly reads data from disk and returns bytes read (or error)    [  1/1]
+
+
+  Part 2: path resolution and data retrieval [ 36/36]
+  ------------------------------------------
+
+    read_inode:
+	Correctly computes group number and inode table block               [  1/1]
+	Correctly computes index and/or offset within inode table           [  1/1]
+	Correctly calls read_block (or reads from disk)                     [  1/1]
+
+    read_ind_block_entry:
+	Correctly fails if block is invalid or read fails                   [  1/1]
+	Correctly reads block number and returns value read                 [  1/1]
+
+    get_inode_block_no:
+	Correct return for direct blocks (first 12 blocks)                  [  1/1]
+	Correct use of block size to determine no. of entries               [  1/1]
+	Correct return for single-indirect block                            [  1/1]
+	Correct return for double-indirect block                            [  1/1]
+	Correct return for triple-indirect block                            [  1/1]
+
+    read_file_block:
+	Correct computation of block index and offset within block          [  1/1]
+	Correctly obtains block number based on index                       [  1/1]
+	Correctly stops reading at block boundary
+	    (max_size at most block_size - block_offset)                    [  1/1]
+	Correct call to read_block and return                               [  1/1]
+
+    follow_directory_entries:
+        Correctly returns no entries if inode is not directory              [  1/1]
+	Proper loop that terminates when offset reaches file size
+	    and steps on rec_len                                            [  1/1]
+	Correctly reads directory entry components                          [  1/1]
+	Correctly skips entries with inode zero                             [  1/1]
+	Correct parsing of file name based on name length                   [  1/1]
+	Correct call to function f                                          [  1/1]
+	Updates buffer correctly, but only if buffer is != NULL             [  1/1]
+	Returns inode number if f returns != 0                              [  1/1]
+	Returns 0 if no entry returns != 0 for f                            [  1/1]
+
+    find_file_from_path:
+	Code works correctly for: root directory                            [  1/1]
+        Code works correctly for: file directly in root directory           [  3/3]
+        Code works correctly for: file in subdirectory of root              [  3/3]
+	Proper update of inode pointer                                      [  3/3]
+        Correct error handling: file not found                              [  1/1]
+        Correct error handling: component in path not found                 [  1/1]
+	Correct error handling: read_inode returns -1                       [  1/1]
+
+  Part 3: file system implementation [ /17]
+  ----------------------------------
+
+    ext2_getattr:
+        Call to find_file_from_path and error return based on its value     [  1/1]
+        Proper update of mode, ctime, atime, mtime                          [  1/1]
+	Proper update of blocks, nlink                                      [  1/1]
+	Proper update of size based on inode_file_size                      [  1/1]
+	Proper update of uid based on i_uid and l_i_uid_high (and gid)      [  1/1]
+
+    ext2_readdir:
+        Call to find_file_from_path and error return based on its value     [  1/1]
+	Properly calls filler with each entry                               [  1/1]
+	    (typically using follow_directory_entries with new helper)
+
+    ext2_open:
+        Call to find_file_from_path and error return based on its value     [  1/1]
+	Anything allocated in open is freed in release                      [  1/1]
+
+    ext2_read:
+        Obtains inode either through call to find_file_from_path or
+	    from data passed through fi->fh                                 [  1/1]
+	Properly fills buffer with file content (read_file_content)         [  1/1]
+	Either open or read should return error if file is a directory      [  1/1]
+
+    ext2_readlink:
+        Call to find_file_from_path and error return based on its value     [  1/1]
+	Returns error if file is not a symlink                              [  1/1]
+	Reads file content from data blocks if file size > 60               [  1/1]
+	Reads data from i_symlink_target if file size <= 60                 [  1/1]
+	Stops reading at size bytes, terminates string with null byte       [  1/1]
+
+  Coding style and documentation [ 3/3]
+  ------------------------------
+
+    Code is properly indented, easy to understand, with
+        meaningful variable names                                    [1/1]
+    All allocated space and open files are freed and closed          [1/1]
+    The code is reasonably efficient                                 [1/1]
+        - for instance, ext2_read uses data obtained in ext2_open
+
+  Coverpage [ 1/1]
+  ---------

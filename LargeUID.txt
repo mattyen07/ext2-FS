@@ -1,0 +1,187 @@
+ 
+Checksums on plain files
+.:
+total 2239
+          2 drwxr-xr-x 5      0    0        1024 Mar 19  2019 .
+15119311001 drwx--x--x 4  82357 6000         690 Mar 23 19:28 ..
+         18 drwxr-xr-x 2   2019 1923        1024 Mar  4  2019 ARM
+         14 -rw-r--r-- 1   2019 1920        4391 Mar  4  2019 bitshortage.html
+         13 drwxr-xr-x 3   2019 1923        1024 Mar 19  2019 d1
+         12 -rw-r--r-- 3 128321    0     1092917 Mar  4  2019 file1
+         12 -rw-r--r-- 3 128321    0     1092917 Mar  4  2019 file2
+         11 drwx------ 2      0    0       12288 Mar  4  2019 lost+found
+         21 -rw-r--r-- 1      0    0 13476659219 Mar 19  2019 Sparse.txt
+         22 -rwxr-xr-x 1   2019 1923       24076 Mar  4  2019 UBC-logo-2018-fullsig-blue-rgb300.png
+
+./ARM:
+total 5
+18 drwxr-xr-x 2 2019 1923 1024 Mar  4  2019 .
+ 2 drwxr-xr-x 5    0    0 1024 Mar 19  2019 ..
+20 -rw-r--r-- 1    0    0  221 Mar  4  2019 assembler.s
+19 -rw-r--r-- 1    0    0 1244 Mar  4  2019 Hello World.c
+
+./d1:
+total 1078
+13 drwxr-xr-x 3   2019 1923    1024 Mar 19  2019 .
+ 2 drwxr-xr-x 5      0    0    1024 Mar 19  2019 ..
+16 drwxr-xr-x 2   1034  100    1024 Nov 21  2018 Calendars
+15 -rw-r--r-- 1      0    0      51 Mar  4  2019 File1.txt
+12 -rw-r--r-- 3 128321    0 1092917 Mar  4  2019 termcap
+
+./d1/Calendars:
+total 11
+16 drwxr-xr-x 2 1034  100 1024 Nov 21  2018 .
+13 drwxr-xr-x 3 2019 1923 1024 Mar 19  2019 ..
+17 -rw-r--r-- 1 1034  100 8688 Nov 21  2018 2019_4up.pdf
+
+./lost+found:
+total 13
+11 drwx------ 2 0 0 12288 Mar  4  2019 .
+ 2 drwxr-xr-x 5 0 0  1024 Mar 19  2019 ..
+896c35616f6747ba23ccc8b3dfb3c767d0b0c52e7da1d7e2dbb4ba72f7ab680b *./file2
+896c35616f6747ba23ccc8b3dfb3c767d0b0c52e7da1d7e2dbb4ba72f7ab680b *./d1/termcap
+c5aaad1ae0d918ec565ddc5c2bf54ad7c96441395c297ccb1762ac2ed8563da7 *./d1/File1.txt
+40b21b8d373ca9c27aaca296d5477b33e9067f815255d5217ee96d7d52cb859f *./d1/Calendars/2019_4up.pdf
+232d0244cbbbfffc6c4d56e04a435ae8183cab91af0166a708596fa23a89871f *./ARM/Hello World.c
+b5c68e06f7480aad340e7af72bf46ed172b8f34c4e6f38e5d5289b678bbc9139 *./ARM/assembler.s
+896c35616f6747ba23ccc8b3dfb3c767d0b0c52e7da1d7e2dbb4ba72f7ab680b *./file1
+f78b48e550a54eddde584b513d3cf8edd614af3c802ba025a9114cc98ed8378c *./bitshortage.html
+dec66146b918be37240bb8a24f710082b131e660d7eac46637f1c835dc9ae3d5 *./UBC-logo-2018-fullsig-blue-rgb300.png
+9b58d2e64144c486a3a3a073f058fd4caa909a31cc36cf41d7f378e11fccbe94 *./Sparse.txt
+ 
+Stat on each file in the system
+  File: .
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 2           Links: 5
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-19 11:42:08.000000000 -0700
+Modify: 2019-03-19 11:34:55.000000000 -0700
+Change: 2019-03-19 11:34:55.000000000 -0700
+ Birth: -
+
+  File: ./lost+found
+  Size: 12288     	Blocks: 24         IO Block: 1024   directory
+Device: 66h/102d	Inode: 11          Links: 2
+Access: (0700/drwx------)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:43:51.000000000 -0800
+Modify: 2019-03-04 10:05:03.000000000 -0800
+Change: 2019-03-04 10:05:03.000000000 -0800
+ Birth: -
+
+  File: ./file2
+  Size: 1092917   	Blocks: 2148       IO Block: 1024   regular file
+Device: 66h/102d	Inode: 12          Links: 3
+Access: (0644/-rw-r--r--)  Uid: (128321/ UNKNOWN)   Gid: (    0/    root)
+Access: 2019-03-04 10:21:49.000000000 -0800
+Modify: 2019-03-04 10:14:32.000000000 -0800
+Change: 2019-03-19 11:22:48.000000000 -0700
+ Birth: -
+
+  File: ./d1
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 13          Links: 3
+Access: (0755/drwxr-xr-x)  Uid: ( 2019/ UNKNOWN)   Gid: ( 1923/ UNKNOWN)
+Access: 2019-03-19 11:23:39.000000000 -0700
+Modify: 2019-03-19 11:23:37.000000000 -0700
+Change: 2019-03-19 11:25:32.000000000 -0700
+ Birth: -
+
+  File: ./d1/termcap
+  Size: 1092917   	Blocks: 2148       IO Block: 1024   regular file
+Device: 66h/102d	Inode: 12          Links: 3
+Access: (0644/-rw-r--r--)  Uid: (128321/ UNKNOWN)   Gid: (    0/    root)
+Access: 2019-03-04 10:21:49.000000000 -0800
+Modify: 2019-03-04 10:14:32.000000000 -0800
+Change: 2019-03-19 11:22:48.000000000 -0700
+ Birth: -
+
+  File: ./d1/File1.txt
+  Size: 51        	Blocks: 2          IO Block: 1024   regular file
+Device: 66h/102d	Inode: 15          Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:30:24.000000000 -0800
+Modify: 2019-03-04 10:30:41.000000000 -0800
+Change: 2019-03-04 10:30:41.000000000 -0800
+ Birth: -
+
+  File: ./d1/Calendars
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 16          Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-03-19 11:20:58.000000000 -0700
+Modify: 2018-11-21 18:57:58.000000000 -0800
+Change: 2019-03-04 10:39:17.000000000 -0800
+ Birth: -
+
+  File: ./d1/Calendars/2019_4up.pdf
+  Size: 8688      	Blocks: 18         IO Block: 1024   regular file
+Device: 66h/102d	Inode: 17          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1034/ UNKNOWN)   Gid: (  100/   users)
+Access: 2019-02-01 09:46:52.000000000 -0800
+Modify: 2018-11-21 10:24:55.000000000 -0800
+Change: 2019-03-04 10:39:17.000000000 -0800
+ Birth: -
+
+  File: ./ARM
+  Size: 1024      	Blocks: 2          IO Block: 1024   directory
+Device: 66h/102d	Inode: 18          Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 2019/ UNKNOWN)   Gid: ( 1923/ UNKNOWN)
+Access: 2019-03-04 10:43:51.000000000 -0800
+Modify: 2019-03-04 10:41:19.000000000 -0800
+Change: 2019-03-19 11:25:32.000000000 -0700
+ Birth: -
+
+  File: ./ARM/Hello World.c
+  Size: 1244      	Blocks: 4          IO Block: 1024   regular file
+Device: 66h/102d	Inode: 19          Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:41:19.000000000 -0800
+Modify: 2019-03-04 10:41:19.000000000 -0800
+Change: 2019-03-04 10:41:19.000000000 -0800
+ Birth: -
+
+  File: ./ARM/assembler.s
+  Size: 221       	Blocks: 2          IO Block: 1024   regular file
+Device: 66h/102d	Inode: 20          Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-04 10:41:19.000000000 -0800
+Modify: 2019-03-04 10:41:19.000000000 -0800
+Change: 2019-03-04 10:41:19.000000000 -0800
+ Birth: -
+
+  File: ./file1
+  Size: 1092917   	Blocks: 2148       IO Block: 1024   regular file
+Device: 66h/102d	Inode: 12          Links: 3
+Access: (0644/-rw-r--r--)  Uid: (128321/ UNKNOWN)   Gid: (    0/    root)
+Access: 2019-03-04 10:21:49.000000000 -0800
+Modify: 2019-03-04 10:14:32.000000000 -0800
+Change: 2019-03-19 11:22:48.000000000 -0700
+ Birth: -
+
+  File: ./bitshortage.html
+  Size: 4391      	Blocks: 10         IO Block: 1024   regular file
+Device: 66h/102d	Inode: 14          Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 2019/ UNKNOWN)   Gid: ( 1920/ UNKNOWN)
+Access: 2019-03-04 10:19:06.000000000 -0800
+Modify: 2019-03-04 10:19:06.000000000 -0800
+Change: 2019-03-19 11:23:27.000000000 -0700
+ Birth: -
+
+  File: ./UBC-logo-2018-fullsig-blue-rgb300.png
+  Size: 24076     	Blocks: 50         IO Block: 1024   regular file
+Device: 66h/102d	Inode: 22          Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 2019/ UNKNOWN)   Gid: ( 1923/ UNKNOWN)
+Access: 2019-03-04 10:42:55.000000000 -0800
+Modify: 2019-03-04 10:42:55.000000000 -0800
+Change: 2019-03-19 11:25:32.000000000 -0700
+ Birth: -
+
+  File: ./Sparse.txt
+  Size: 13476659219	Blocks: 28         IO Block: 1024   regular file
+Device: 66h/102d	Inode: 21          Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-03-19 11:34:55.000000000 -0700
+Modify: 2019-03-19 11:34:57.000000000 -0700
+Change: 2019-03-19 11:34:57.000000000 -0700
+ Birth: -
+
